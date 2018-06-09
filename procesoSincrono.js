@@ -1,0 +1,13 @@
+console.log("Quiero preparar cena");
+console.log("Pregunto receta");
+console.log("Espero respuesta");
+console.log("Espero respuesta");
+console.log("Espero respuesta");
+console.log("Espero respuesta");
+console.log("Espero respuesta");
+console.log("Espero respuesta");
+console.log("Espero respuesta");
+console.log("Tengo receta");
+console.log("Compro ingredientes");
+console.log("Preparo el postre");
+console.log("Cena terminada!");
